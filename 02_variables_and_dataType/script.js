@@ -1,5 +1,13 @@
-const nome = `eric-antonio`;
-const iadae = 22;
+//Creating a variable usuing var
+var mes = 'Stembro!'
 
-console.log('Idade ' +  'I dade')
-console.log(nome + '-' + iadae);
+//Creating a variable usuing let
+let  provincia = 'Maputo'
+
+//Creating a variable usuing Const
+const ano = 2022
+
+//Creating a variable usuing var
+
+var dia = 27
+console.log(provincia+ ' aos ' + dia + ' de ' + ano);
