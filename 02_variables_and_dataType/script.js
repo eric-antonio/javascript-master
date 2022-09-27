@@ -1,7 +1,7 @@
 // String
-let nome ="Eric Antonio!";
-let backits = `Hello, ${nome}, Welcome!`;
-console.log( typeof backits);
+let nome ="Eric Antonio!"
+let backits = `Hello, ${nome}, Welcome!`
+console.log(backits)
 
 // Numbers
 let valor1 = "2"
@@ -17,3 +17,11 @@ if(isCool){
 }else{
     console.log(`My Bad Bro! You'r not Cool`)
 }
+
+// Null
+let idade = null
+console.log(idade)
+
+// Undefined
+let x
+console.log(x)
