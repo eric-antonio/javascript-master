@@ -11,8 +11,9 @@ console.log(` A soam de ${valor1} + ${valor2} = ${Number(valor1) + valor2}`)
 
 // Booleans
 
-let a = true
-let b = false
-
-let isCool = a
-console.log(`${nome} isCool?-${isCool}`)
+let isCool = false
+if(isCool){
+    console.log(`Hi ${nome} you'r Cool!`)
+}else{
+    console.log(`My Bad Bro! You'r not Cool`)
+}
