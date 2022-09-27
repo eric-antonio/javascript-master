@@ -25,3 +25,4 @@ console.log(idade)
 // Undefined
 let x
 console.log(x)
+
