@@ -26,3 +26,8 @@ console.log(idade)
 let x
 console.log(x)
 
+
+// Arry
+
+const arry =[1,2,5,67,]
+console.log(arry)
